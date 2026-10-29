@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kara%20Nawzad&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Communication%20Engineer%20%7C%20AI%20%26%20Telecom&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kara%20Nawzad&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Communication%20Engineer%20%7C%20AI%20and%20Telecom&descAlignY=58" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Communication+Engineer;AI+%26+Machine+Learning;Network+%26+Antenna+Design;I+build+tools+that+go+live" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Communication+Engineer;AI+and+Machine+Learning;Network+and+Antenna+Design;I+build+tools+that+go+live" alt="Typing animation"/>
 
 🌐 [karanawzad.tech](https://karanawzad.tech) · 💼 [LinkedIn](https://linkedin.com/in/kara-nawzad) · 📫 karanawzad01@gmail.com
 
